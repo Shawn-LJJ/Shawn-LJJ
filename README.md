@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### - 🏫 A student from Singapore Polytechnic.
+#### - 👩‍💻 A coding enthusiats that makes random program when bored, sometimes.
+#### - 🐧 A Linux user, preferably Arch Linux.
 
 <!--
 **Shawn-LJJ/Shawn-LJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
